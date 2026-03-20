@@ -1759,6 +1759,4 @@ export default function App() {
       </div>
     </div>
   );
-
-    export default app;
 }
